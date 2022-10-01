@@ -1,1 +1,3 @@
-Clone da netflix realizado pelo Bootcamp oferecido pela Digital Innovation One
+## Netflix clone
+
+Project created through the Bootcamp offered by DIO (Digital Innovation One)
